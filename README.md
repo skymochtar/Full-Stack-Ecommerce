@@ -14,4 +14,4 @@ Frontend .env file
 
 REACT_APP_CLOUD_NAME_CLOUDINARY =
 
-Image : https://drive.google.com/file/d/1DFE6SD4r1BgFa-SZX1xyRzdFKLuMxGNi/view?usp=sharing
+
